@@ -1,0 +1,6 @@
+# Change this to your quake 2 directory
+q2dir c:\Games\Quake 2
+
+# These are the movement modifiers
+landSpeed 9000
+airMoveMult 0.1
